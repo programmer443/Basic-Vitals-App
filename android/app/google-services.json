@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "721460488172",
+    "firebase_url": "https://rasp-dht22-6a4a2-default-rtdb.firebaseio.com",
+    "project_id": "rasp-dht22-6a4a2",
+    "storage_bucket": "rasp-dht22-6a4a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721460488172:android:9324e1f6c8f498f6f042c9",
+        "android_client_info": {
+          "package_name": "com.example.iot_based_crib"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "721460488172-qrekcbguu3ejrtn64roribichqps349u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSxPs0yg5sdRXIlRRNaBwc0Vh5Fb9NRuU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "721460488172-qrekcbguu3ejrtn64roribichqps349u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
